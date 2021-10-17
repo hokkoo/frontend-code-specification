@@ -46,10 +46,14 @@
 ## 规则
     - 单例
         - js/css/html/typescript
-        - vue/react/angular/jquery
+        - vue/react/angular/jquery/taro
+        - nodejs/expressjs/koajs/eggjs
+        
     - 组合
         - 重构
         - 组件开发
+    - 项目维度
+        - 
     - 维度
         - 命名
             - 文件
