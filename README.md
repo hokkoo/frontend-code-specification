@@ -1,69 +1,59 @@
-# 前端代码规范
-	- 参考
-		- https://github.com/kciter/awesome-style-guide#html
-		- https://github.com/RichardLitt/awesome-styleguides
-	- 分场景
-		- 组件开发
-		- 重构
-		- 单页面
-		- 多页面
-	- 分层级
-		- 基础
-			- 语法
-				- JavaScript 规范
-					- E:\ing\docs\life-work\目标进行时\Today\all in one\项目\前端代码规范\JavaScript_规范.md
-				- css 规范
-					- E:\ing\docs\life-work\目标进行时\Today\all in one\项目\前端代码规范\CSS 规范.md
-				- html 规范
-					- https://guide.aotu.io/docs/html/code.html
-			
-			- 命名
-		- 架构/设计
-			- 通用方法论
-			- 
-	- 具体细则
-		- 路由
-		- 组件规范
-			- 通用组件
-			- ui组件
-			- 业务组件
-			- 复杂组件
-		- 框架规范
-			- vue 规范
-				- https://github.com/pablohpsilva/vuejs-component-style-guide/blob/master/README-CN.md
-				- https://segmentfault.com/a/1190000021698437
-				- https://juejin.cn/post/6844903652096770055
-			- react 规范
-				- component 规范
-				- hooks 规范
-				-
-					- https://guide.aotu.io/docs/js/react.html
-					- Airbnb React编码规范
-					- https://zhuanlan.zhihu.com/p/20616464
-			- angular 规范
+# 代码规范
+	- 总体结构处理
+		- 结构已经比较清晰
+			- 基础语法
+				- JS/CSS/Html
+					- JS，参考：single/javascript_tencent.md
+					- CSS，参考： single/Google HTML_CSS Style Guide.html
+					- HTMl，参考：single/Google HTML_CSS Style Guide.html
+				- Nodejs
+					- 参考 JS
+			- 框架语法
+				- React/Vue/Angular
+					- React，参考：single/react_airbnb.md
+					- Vue，参考：single/vue_component_style.md
+					- Angular，参考：single/angular_style.md
+				- jquery/backbonejs
+					- 暂无
+				- eggjs/koa/express
+					- eggjs，暂无
+					- koa，暂无
+				- webpack/vite/grunt
+					- 暂无
+			- 组合/混合/场景
+				- 重构
+					- 暂无
+				- 组件
+				- 页面
+			- 方法论
+				- 设计
+				- 架构
+				- 数据模型
+				- 事件流
+			- 特定场景
+				- echart 图表
+			- 特定维度的规则
+				- 命名
+					- 参考：other/命名.md
+				- 个人总结
+				- 参考：other/tip.md
+	- 工具库
+		- lint
+			- eslint/tslint
+			- lint 对应的规则
+			- webpack
+		- precss/postcss
+		- babel
+		- todolist
+	- 设计规范的对其
+		- 特定项目/场景的设计
+	- 各种原理分析
+		- 外部
+		- 自己的分析
+	- 目前的工作量
+		- 各种规范的梳理
+			- 很多工作量
 
-
-## 规则
-    - 单例
-        - js/css/html/typescript
-        - vue/react/angular/jquery/taro
-        - nodejs/expressjs/koajs/eggjs
-        
-    - 组合
-        - 重构
-        - 组件开发
-    - 项目维度
-        - 
-    - 维度
-        - 命名
-            - 文件
-            - 变量
-            - 方法/函数
-        - 设计/架构
-            - 方法论
-                - 按场景
-        - 粒度
-            - 通用组件
-            - ui 组件
-            - 业务组件
-            - 页面组件
+## 拆分
+	 - 正确性
+	 - 规范性/一致性
