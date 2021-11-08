@@ -6,6 +6,8 @@
 					- JS，参考：single/javascript_tencent.md
 					- CSS，参考： single/Google HTML_CSS Style Guide.html
 					- HTMl，参考：single/Google HTML_CSS Style Guide.html
+						- 借助 emmet 工具：
+							- https://code.visualstudio.com/docs/editor/emmet
 				- Nodejs
 					- 参考 JS
 			- 框架语法
@@ -13,6 +15,8 @@
 					- React，参考：single/react_airbnb.md
 					- Vue，参考：single/vue_component_style.md
 					- Angular，参考：single/angular_style.md
+				- umijs
+					- 参考：other\umi.md
 				- jquery/backbonejs
 					- 暂无
 				- eggjs/koa/express
