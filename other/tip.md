@@ -4,3 +4,7 @@
 				- null[0]
 		  - 空对象
 				- undefined.key, null.key 等都会报错
+	- 单引号/双引号
+		- 
+	- 文件大小限制
+		- svg：
